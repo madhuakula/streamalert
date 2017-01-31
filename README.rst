@@ -20,5 +20,5 @@ For more details, see our announcement post `here <https://medium.com/@airbnbeng
 *Links*:
 
 * `User Guide <https://streamalert.readthedocs.io/>`_
-* `Twitter <https://twitter.com/streamalert_io>`_
+* `Twitter <https://twitter.com/streamalert_io>`_ (unofficial)
 * `Slack <https://streamalert.herokuapp.com/>`_
