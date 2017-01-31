@@ -21,7 +21,7 @@ Frequently Asked Questions
 
 **What environments does StreamAlert support?**
 
-* See `Support <support.html>`_
+* See `Requirements <requirements.html>`_
 
 **How can I send data to StreamAlert?**
 
